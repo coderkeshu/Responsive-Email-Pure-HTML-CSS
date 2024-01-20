@@ -7,5 +7,5 @@
 3. Images used along with the content should be hosted on server.
 4. Minimum image width should not go below 100px, if you are using as a image stack like menu section in the mailer.
 3. Each code mentioned in this email template is compatible with almost all the client units like Outlook, GMAIL, HOTMAIL, Apple Mail etc.
-4. For better errors and testing we recomend to use ![Litmus](https://www.litmus.com).
+4. For better errors and testing we recomend to use https://www.litmus.com.
 
